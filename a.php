@@ -13,3 +13,4 @@ echo '暂存22';
 echo '暂存2';
 echo 'bug';
 echo 'bug2';
+echo 11111;
