@@ -7,3 +7,4 @@
  */
 echo 'b';
 echo 'b2';
+echo 'bug2';
