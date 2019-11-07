@@ -21,3 +21,4 @@ echo 'dev';
 echo 'dev2';
 echo 'bug';
 echo 'bug2';
+echo 'bug3';
