@@ -6,3 +6,4 @@
  * Time: 14:42
  */
 echo 'b';
+echo 'b2';
