@@ -8,3 +8,4 @@
 echo 'a';
 echo 'a-master';
 echo 'a2';
+echo '暂存区';
