@@ -8,3 +8,4 @@
 echo 'b';
 echo 'b2';
 echo 'bug2';
+echo '处理bug';
