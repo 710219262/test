@@ -22,3 +22,4 @@ echo 'dev2';
 echo 'bug';
 echo 'bug2';
 echo 'bug3';
+echo 'bug4';
