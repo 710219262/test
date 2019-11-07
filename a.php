@@ -14,3 +14,4 @@ echo '暂存2';
 echo 'bug';
 echo 'bug2';
 echo 11111;
+echo '新功能';
