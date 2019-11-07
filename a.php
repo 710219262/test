@@ -19,3 +19,4 @@ echo '111';
 echo '11';
 echo 'dev';
 echo 'dev2';
+echo 'bug';
