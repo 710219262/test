@@ -9,3 +9,4 @@ echo '我是index<br/>';
 echo "<a href='a.php'>a.php</a><br/>";
 echo "<a href='b.php'>b.php</a>";
 echo "<br/>dev";
+echo "index";
