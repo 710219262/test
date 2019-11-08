@@ -8,3 +8,4 @@
 echo '我是a<br/>';
 echo "<a href='index.php'>index.php</a><br/>";
 echo "<a href='b.php'>b.php</a><br/>";
+echo '修改';
