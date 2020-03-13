@@ -19,4 +19,5 @@ echo 'bug';
 echo '新功能2';
 echo '新功能3';
 echo '新功能4';
-echo 'bug';
+echo '新功能3';
+echo '新功能4';
