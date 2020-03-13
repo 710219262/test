@@ -15,3 +15,4 @@ echo '新功能';
 echo '新功能';
 echo '新功能';
 echo '新功能';
+echo 'bug';
