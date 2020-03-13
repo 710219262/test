@@ -6,3 +6,4 @@
  * Time: 14:42
  */
 echo '我是a<br/>';
+echo 'bug';
