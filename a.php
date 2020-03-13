@@ -8,3 +8,4 @@
 echo '我是a<br/>';
 echo 'bug';
 echo 'test';
+echo 'bug';
