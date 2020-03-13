@@ -10,3 +10,4 @@ echo 'bug';
 echo 'test';
 echo 'bug';
 echo 'bug2';
+echo '新bug';
